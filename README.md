@@ -1,1 +1,3 @@
-# sign-language-to-text-ASL
+# Sign-language-to-text-ASL
+
+##todo - Add description
